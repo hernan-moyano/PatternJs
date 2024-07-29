@@ -1,1 +1,2 @@
 # PatternJs
+Author: Hernán Moyano
